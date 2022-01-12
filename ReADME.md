@@ -11,3 +11,4 @@
 **And done the following tasks:**
 
 1. [**Constructor CoffeeShop**](./coffeeShop.js)<br>
+2. [**Constructor Shiritori**](./shiritori.js)
